@@ -4,7 +4,7 @@ html {
 
 body {
     height: 100%;
-    
+    background-color: #ffd1dc;
 }
 a {
     text-decoration: none;
@@ -16,4 +16,12 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    color: #ffd1dc;
+}
+.navbar{
+    text-align: center;
 }
