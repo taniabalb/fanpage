@@ -14,14 +14,45 @@ a {
     height: 100%;
 }
 .social-image{
-    width: 30px;
-    margin: 15px;
+    width: 200px;
 }
 .header{
     text-align: center;
     background-color: black;
     color: #ffd1dc;
+    justify-content:center;
+    display: flex;
 }
 .navbar{
     text-align: center;
+    justify-content:space-around;
+    background-color: black;
+}
+.head{
+    display: flex;
+    justify-content:center;
+}
+.thumbnail-image{
+    width:100px;
+    height: 100px;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.aboutMain{
+    display: flex;
+}
+.leftPane{
+    width: 50%;   
+}
+.rightPane{
+    width: 50%;
+}
+#about1975{
+    width: 300px;
 }
